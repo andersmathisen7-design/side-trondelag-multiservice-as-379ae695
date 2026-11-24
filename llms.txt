@@ -1,0 +1,13 @@
+# Trøndelag Multiservice AS
+
+- Bransje: Snekkerarbeid
+- Sted: Vikhammer
+- E-post: post@tmultiservice.no
+
+## Tjenester
+
+- Snekkerarbeid: Vi utfører snekkerarbeid i Vikhammer. Ta kontakt og fortell hva du trenger hjelp til.
+
+## Om nettsiden
+
+Laget av Nettsideferdig (https://nettsideferdig.no/).
